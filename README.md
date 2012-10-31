@@ -1,0 +1,4 @@
+mae
+===
+
+Mathematica Accelerator Environment
